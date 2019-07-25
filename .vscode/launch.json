@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AreaCircunferencia",
+            "request": "launch",
+            "mainClass": "fundamentos.AreaCircunferencia"
+        }
+    ]
+}
