@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Inferencia",
+            "request": "launch",
+            "mainClass": "fundamentos.Inferencia",
+            "projectName": "java_bb3ff699"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "fundamentos.App",
+            "projectName": "java_bb3ff699"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - AreaCircunferencia",
             "request": "launch",
             "mainClass": "fundamentos.AreaCircunferencia"
