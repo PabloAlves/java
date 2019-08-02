@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TipoString",
+            "request": "launch",
+            "mainClass": "fundamentos.TipoString",
+            "projectName": "java_bb3ff699"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NotacaoPonto",
+            "request": "launch",
+            "mainClass": "fundamentos.NotacaoPonto",
+            "projectName": "java_bb3ff699"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TiposPrimitivos",
+            "request": "launch",
+            "mainClass": "fundamentos.TiposPrimitivos",
+            "projectName": "java_bb3ff699"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Inferencia",
             "request": "launch",
             "mainClass": "fundamentos.Inferencia",

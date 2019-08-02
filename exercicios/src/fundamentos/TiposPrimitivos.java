@@ -11,7 +11,7 @@ public class TiposPrimitivos {
     long pontos = 3444555666L;
 
     // tipos de ponto flutuante
-    float salario = 12000.45F; // java nao analisa o valor - verificar se eh ponto flutuante
+    float salario = 12000.45F; // java nao analisa o valor - verifica se eh ponto flutuante
     double vendasAcumuladas = 25000444.50;
 
     // tipo booleano
