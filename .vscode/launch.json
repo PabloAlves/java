@@ -2,6 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - conversaoStringNumero",
+            "request": "launch",
+            "mainClass": "fundamentos.conversaoStringNumero"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConcersaoNumeroString",
+            "request": "launch",
+            "mainClass": "fundamentos.ConcersaoNumeroString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConversaoTipoNumerico",
+            "request": "launch",
+            "mainClass": "fundamentos.ConversaoTipoNumerico"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Console",
+            "request": "launch",
+            "mainClass": "fundamentos.Console"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TipoString",
             "request": "launch",
             "mainClass": "fundamentos.TipoString",
