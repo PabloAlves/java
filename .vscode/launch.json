@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - If",
+            "request": "launch",
+            "mainClass": "controle.If",
+            "projectName": "java_bb3ff699"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TipoStringEquals",
             "request": "launch",
             "mainClass": "fundamentos.TipoStringEquals",
