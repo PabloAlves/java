@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ProdutoTeste",
+            "request": "launch",
+            "mainClass": "classe.ProdutoTeste"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - If",
             "request": "launch",
             "mainClass": "controle.If",
