@@ -4,7 +4,7 @@ import java.math.RoundingMode;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-public class App {
+public class IMC {
 
 	public double calculaIMC(double peso, double altura) {
 
