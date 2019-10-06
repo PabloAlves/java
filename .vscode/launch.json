@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Foreach",
+            "request": "launch",
+            "mainClass": "Foreach",
+            "projectName": "java_bb3ff699"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppStart",
+            "request": "launch",
+            "mainClass": "AppStart",
+            "projectName": "java_bb3ff699"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "java_bb3ff699"
+        }
+    ]
+}
