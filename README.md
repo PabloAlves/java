@@ -1,2 +1,2 @@
 # java
-Aprendizado em Java muito legal.
+Aprendizado em Java muito legal!
